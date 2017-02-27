@@ -4,25 +4,25 @@ A bash script to install set of tools that help you start building API for machi
 
 # Python essential tools
 
-**pip**
-**Flask framework**
+- pip
+- Flask framework 
 
 
 # Machine learing tools 
 
-**tensorflow**
-**scikit-learn**
-**nltk**
-**numpy**
-**scipy**
-**jupyter**
-**pandas**
-**sympy**
-**nose**
+- tensorflow
+- scikit-learn
+- nltk
+- numpy
+- scipy
+- jupyter
+- pandas
+- sympy
+- nose
 
 
 # Database python tools
 
-**python-mysqldb**
-**pymongo**
+- python-mysqldb
+- pymongo
 
