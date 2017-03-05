@@ -1,5 +1,5 @@
 # Essential-tools installer
-A bash script to install set of tools that help you start building API for machine learning applications in Flask python micro framework
+A shell script to install set of tools that help you start building API for machine learning applications in Flask python micro framework
 
 
 # Python essential tools
