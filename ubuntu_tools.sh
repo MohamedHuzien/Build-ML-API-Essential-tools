@@ -6,7 +6,7 @@ echo '...............................................................'
 
 echo 'installing python pip ..... '
 echo '...............................................................'
-sudo apt-get install python-pip python-dev build-essential
+sudo apt-get install python-pip python-dev build-essential libapache2-mod-wsgi
 sudo pip install --upgrade pip
 
 
